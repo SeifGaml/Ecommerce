@@ -15,21 +15,21 @@ Don't forget to **star** the project if you like it! ❤️ == ⭐
 ---
 
 ## Dependencies 🔆
-| 🔑 Name           | 📖 Description                                                                                                               | 🔗 Link          |
+| 🔑 Name           | 📖 Description                                                                                                               | 
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------|
-| **LiveData**      | LiveData is an Observable data holder that allows us to monitor changes in data. It is lifecycle-aware.                       | [Link](#)        |
-| **Retrofit**      | A type-safe HTTP client for Android and Java.                                                                                | [Link](#)        |
-| **RxJava**        | A library for composing asynchronous and event-based programs using observable sequences for the Java VM.                    | [Link](#)        |
-| **Coroutines**    | A concurrency design pattern to simplify code that executes asynchronously.                                                  | [Link](#)        |
-| **Room**          | Provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.          | [Link](#)        |
-| **View Binding**  | A feature that allows you to more easily write code that interacts with views.                                               | [Link](#)        |
+| **LiveData**      | LiveData is an Observable data holder that allows us to monitor changes in data. It is lifecycle-aware.                       |
+| **Retrofit**      | A type-safe HTTP client for Android and Java.                                                                                | 
+| **RxJava**        | A library for composing asynchronous and event-based programs using observable sequences for the Java VM.                    |
+| **Coroutines**    | A concurrency design pattern to simplify code that executes asynchronously.                                                  | 
+| **Room**          | Provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.          | 
+| **View Binding**  | A feature that allows you to more easily write code that interacts with views.                                               | 
 | **MVVM**          | Architectural pattern with three components:
   - **Model**: Holds application data and is independent of UI.
   - **View**: Represents the UI of the application.
   - **ViewModel**: Links the Model and the View.                                                              | [Link](#)        |
-| **Data Binding**  | A support library that binds UI components in layouts to data sources using a declarative format rather than programmatically. | [Link](#)        |
-| **Jetpack**       | A suite of libraries including Room, Hilt, Paging, Data Binding, and more.                                                   | [Link](#)        |
-| **Glide**         | An image loading framework for Android.                                                                                      | [Link](#)        |
+| **Data Binding**  | A support library that binds UI components in layouts to data sources using a declarative format rather than programmatically. |
+| **Jetpack**       | A suite of libraries including Room, Hilt, Paging, Data Binding, and more.                                                   | 
+| **Glide**         | An image loading framework for Android.                                                                                      | 
 
 ---
 
